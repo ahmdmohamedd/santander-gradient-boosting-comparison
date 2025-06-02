@@ -66,12 +66,10 @@ Kaggle: Santander Customer Transaction Prediction
 
 You must agree to the competition rules to download the dataset.
 
-Future Improvements
-Hyperparameter tuning (e.g., with Optuna or GridSearchCV)
+## Future Improvements
 
-Advanced feature generation (e.g., interactions, autoencoders)
-
-Model stacking and ensembling
-
-Feature importance visualization with SHAP
+-Hyperparameter tuning (e.g., with Optuna or GridSearchCV)
+-Advanced feature generation (e.g., interactions, autoencoders)
+-Model stacking and ensembling
+-Feature importance visualization with SHAP
 
