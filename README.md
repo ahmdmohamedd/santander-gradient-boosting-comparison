@@ -59,6 +59,8 @@ Each configuration was evaluated using **ROC AUC** on a validation split.
 Install via pip:
 ```bash
 pip install lightgbm catboost scikit-learn pandas numpy matplotlib seaborn
+```
+
 Dataset Source
 Kaggle: Santander Customer Transaction Prediction
 
