@@ -15,7 +15,7 @@ This project compares the performance of two popular gradient boosting framework
 
 ## File Structure
 
-- `Santander_GBM_LightGBM_CatBoost_FeatureEngineering.ipynb`: Jupyter notebook with code, models, results
+- `Santander_LGBM_CatBoost.ipynb`: Jupyter notebook with code, models, results
 - `README.md`: This file
 
 ---
